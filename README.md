@@ -1,4 +1,4 @@
-# A Vector Drawing Program with Swing
+# Vector Graphics Editor
 <img width="700" alt="Screen Shot 2021-11-28 at 14 42 52" src="https://user-images.githubusercontent.com/77321721/143773918-15e5f255-e3b9-4786-bcc6-bf7d8fce7179.png">
 
 ## FEATURES:
